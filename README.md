@@ -1,7 +1,14 @@
 # terminal-and-markdownHello Github
-more text
 
+- bullets
 
+1. number
+2. you can _emphasize_ using \*strong
 
+-
 
-making shit happen
+In order to add files to commit, use `git add -A`
+
+Interesting stuff:
+
+> wow dude!
