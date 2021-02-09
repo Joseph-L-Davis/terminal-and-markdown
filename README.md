@@ -36,6 +36,6 @@ Interesting stuff:
   <tr>
     <td>Los Angeles Lakers</td>
     <td>Yes</td>
-    <td>Too many, even some don't count</td>
+    <td>Too many, even though some don't count</td>
   </tr>
 </table>
