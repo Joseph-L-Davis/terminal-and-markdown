@@ -12,3 +12,4 @@ In order to add files to commit, use `git add -A`
 Interesting stuff:
 
 > wow dude!
+> making stuff happen
